@@ -16,7 +16,3 @@ class MainController extends Controller
         die();
     }
 }
-function Debug($obj){
-    print_r($obj);
-    die();
-}
